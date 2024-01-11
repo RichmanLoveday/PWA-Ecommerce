@@ -1,0 +1,12 @@
+@import "bigSlider.css";
+@import "button.css";
+@import "card.css";
+@import "megaMenu.css";
+@import "navMenuDesktop.css";
+@import "typo.css";
+@import "footer.css";
+
+
+body {
+    background-color: white;
+}
