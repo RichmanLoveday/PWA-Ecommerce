@@ -11,7 +11,7 @@ function CategoriesCard({ name, imgSrc }) {
             src={imgSrc} // Replace with your image source
             alt=""
           />
-          <h5 className="category-name">{name}</h5>
+          <h5 className="category-name mt-3">{name}</h5>
         </Card.Body>
       </Card>
     </Col>

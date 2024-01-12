@@ -35,19 +35,16 @@ function Categories() {
             name="APPLIANCES"
             imgSrc="https://rukminim1.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100"
           />
-          <CategoriesCard
-            name="APPLIANCES"
-            imgSrc="https://rukminim1.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100"
-          />
+
           <CategoriesCard
             name="FASHION"
             imgSrc="https://rukminim1.flixcart.com/fk-p-flap/80/80/image/0d75b34f7d8fbcb3.png?q=100"
           />
-           <CategoriesCard
+          <CategoriesCard
             name="APPLIANCES"
             imgSrc="https://rukminim1.flixcart.com/fk-p-flap/80/80/image/05d708653beff580.png?q=100"
           />
-           <CategoriesCard
+          <CategoriesCard
             name="APPLIANCES"
             imgSrc="https://rukminim1.flixcart.com/fk-p-flap/80/80/image/05d708653beff580.png?q=100"
           />
