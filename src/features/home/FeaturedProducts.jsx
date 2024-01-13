@@ -11,7 +11,7 @@ function FeaturedProducts() {
           desc={"Some Of Our Exclusive Collection, You May Like"}
         />
 
-        <Row>
+        <Row className="p-2">
           <FeaturedProductCard
             price={23}
             name={"RealME C21 (Cross Black, 64 GB)"}

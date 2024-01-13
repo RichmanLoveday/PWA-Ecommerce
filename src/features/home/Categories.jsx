@@ -10,7 +10,7 @@ function Categories() {
           title="CATEGORIES"
           desc="Some Of Our Exclusive Collection, You May Like"
         />
-        <Row className="justify-content-center mb-5">
+        <Row className="justify-content-center mb-5 p-2">
           <CategoriesCard
             name="GROCERY"
             imgSrc="https://rukminim1.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100"

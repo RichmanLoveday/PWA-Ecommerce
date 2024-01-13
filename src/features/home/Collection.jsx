@@ -10,8 +10,8 @@ function Collection() {
           desc="Some of our Exclusive Collection, You May Like"
         />
 
-        <Row className="justify-content-center">
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+        <Row className="justify-content-center p-2">
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -26,7 +26,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -41,7 +41,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -56,7 +56,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -71,7 +71,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -86,7 +86,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
@@ -101,7 +101,7 @@ function Collection() {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
+          <Col className="p-1" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box">
               <img
                 className="center"
