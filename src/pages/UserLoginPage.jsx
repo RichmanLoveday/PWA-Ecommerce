@@ -3,8 +3,12 @@ import NavMenuMobile from "../components/common/NavMenuMobile";
 import FooterDesktop from "../components/common/FooterDesktop";
 import FooterMobile from "../components/common/FooterMobile";
 import UserLogin from "../features/login/UserLogin";
+import { useEffect } from "react";
 
 function UserLoginPage() {
+  useEffect(function () {
+    window.scroll(0, 0);
+  }, []);
   return (
     <>
       <div className="Desktop">
